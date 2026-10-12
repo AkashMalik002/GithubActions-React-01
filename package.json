@@ -1,0 +1,25 @@
+{
+  "name": "github-actions-react-matrix",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "5.16.4",
+    "@testing-library/react": "13.3.0",
+    "@testing-library/user-event": "14.4.3",
+    "@vitejs/plugin-react": "2.0.0",
+    "jsdom": "20.0.0",
+    "vite": "3.0.7",
+    "vitest": "0.22.1"
+  }
+}
